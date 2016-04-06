@@ -2,6 +2,8 @@
  author: joefche
  date  : 2016-04-01
  site  : nodejs.macaubus.com
+ QQ    : 75189343
+ QQ群  : 470721481
  */
 
 var knex = require('../db');
